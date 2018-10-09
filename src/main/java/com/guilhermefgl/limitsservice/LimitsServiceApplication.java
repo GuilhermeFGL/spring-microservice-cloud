@@ -1,12 +1,12 @@
-package com.guilherme.springmicroservicecloud;
+package com.guilhermefgl.limitsservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringMicroserviceCloudApplication {
+public class LimitsServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringMicroserviceCloudApplication.class, args);
+		SpringApplication.run(LimitsServiceApplication.class, args);
 	}
 }
